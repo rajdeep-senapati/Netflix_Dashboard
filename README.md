@@ -19,8 +19,8 @@ This Tableau dashboard offers an interactive visual analysis of Netflix’s cont
 The platform has experienced significant content growth since 2015.
 
 ## Tools Used
-- **Tableau** for dashboard creation and data visualization.
-- **Netflix Dataset** (presumed to include attributes like title, genre, country, date added, duration, etc.)
+- **Tableau** for creating dashboards and visualizing data.
+- **Netflix Dataset** 
 
 ## How to Use
 1. Open the dashboard in Tableau or via Tableau Public.
