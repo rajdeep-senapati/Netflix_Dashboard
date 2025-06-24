@@ -3,6 +3,8 @@
 ## Overview
 This Tableau dashboard offers an interactive visual analysis of Netflix’s content catalog. It breaks down the distribution of titles by type, genre, country, rating, and release year, helping users gain insights into Netflix's content trends.
 
+![Dashboard Screenshot](Netflix_Dashboard/Screenshot%202025-06-24%20141043.png)
+
 ## Features
 - 🎞️ **Movie vs. TV Show Distribution**: Pie chart showing the proportion of movies (68.42%) and TV shows (31.58%) on the platform.
 - 🌎 **Titles by Country**: World map visualizing the volume of Netflix content by country.
@@ -14,11 +16,11 @@ This Tableau dashboard offers an interactive visual analysis of Netflix’s cont
 ## Insights
 - **TV-MA** is the most common rating with over 2,000 titles.
 - **Documentaries** dominate as the top genre, followed by stand-up comedy and various international drama combinations.
-- The platform has seen significant content growth post-2015.
+The platform has experienced significant content growth since 2015.
 
 ## Tools Used
 - **Tableau** for dashboard creation and data visualization.
-- **Netflix Dataset** 
+- **Netflix Dataset** (presumed to include attributes like title, genre, country, date added, duration, etc.)
 
 ## How to Use
 1. Open the dashboard in Tableau or via Tableau Public.
